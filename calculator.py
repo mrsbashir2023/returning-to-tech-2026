@@ -24,4 +24,4 @@ def calculator():
         print("Invalid input!")
 
 if __name__ == "__main__":
-    calculator()
+    calculator(calculator.py)
